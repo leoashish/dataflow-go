@@ -1,0 +1,14 @@
+# build and test output
+*.test
+*.out
+*.prof
+coverage.*
+# data you generate while working on the capstone
+/data/
+/out/
+/state/
+/big/
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
